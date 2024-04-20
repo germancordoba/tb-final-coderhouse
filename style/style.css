@@ -1,0 +1,58 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  padding: 0.75rem;
+  display: flex;
+  justify-content: center;
+  text-shadow: 0px 2px 9px coral;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+  text-decoration: none;
+}
+
+.primer_btn {
+  padding: 1rem;
+}
+
+.segundo_btn {
+  margin-left: 10%;
+  padding: 1rem;
+}
+
+.tercer_btn {
+  margin-left: 10%;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.card {
+  margin: auto;
+  border: 2px solid salmon;
+  border-radius: 5%;
+}
+
+#second_container {
+  width: min-content;
+  margin-left: 10%;
+  margin-top: 2rem;
+  display: grid;
+}
+
+#btn_datos {
+  margin-top: 1rem;
+}
+
+#container {
+  margin-top: 1.5rem;
+}
+
+#img {
+  width: 50%;
+  margin-bottom: 0.55rem;
+}
